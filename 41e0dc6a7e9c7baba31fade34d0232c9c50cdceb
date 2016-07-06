@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------
+
+by sstok at 2016-07-06 10:02
+
+I found some problems with this solution.
+
+---------------------------------------------------------------------------
+
+by sstok at 2016-07-06 12:07
+
+New approach, answers and normalized values are now separated as caching a normalized value is not what we want. Changes are only internal.
